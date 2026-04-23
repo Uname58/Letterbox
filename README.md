@@ -4,5 +4,6 @@ A lightweight, automated "information postman" that fetches daily AI trends, fin
 # Function
 1--Latest AI news
   * showing latest AI information
+    
 2--Latest Finance news
   * showing latest Finance information
